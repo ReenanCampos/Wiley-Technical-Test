@@ -14,24 +14,26 @@
 
 ### Simple __FAQ__:
 
- -  Q: How can I use Redis Server on my Windows 10?
- -- R: Use this link: https://medium.com/@furkanpur/installation-redis-on-windows-10-13fbb055be7c (last visit on 15/07/2019).
+ > 1. Q: How can I use Redis Server on my Windows 10?  
+ > R: Use this link: https://medium.com/@furkanpur/installation-redis-on-windows-10-13fbb055be7c (last visit on 15/07/2019).
 
- -  Q: How test this code?
- -- R: In CMD/Terminal go to folder "...\1-CacheFunction" run "python main.py".
 
- -  Q: I need build a backend server to have JSON response to test ??
- -- R: No, you can use this free service: https://ptsv2.com/.
 
- -  Q: How long is the cache saved?
- -- R: To test quickly, it was placed only 20 seconds.
+ > 2. Q: How test this code?  
+ > R: In CMD/Terminal go to folder "...\1-CacheFunction" run "python main.py".
 
---------------
+ > 3. Q: I need build a backend server to have JSON response to test ?  
+ > R: No, you can use this free service: https://ptsv2.com/.
+
+ > 4. Q: How long is the cache saved?  
+ > R: To test quickly, it was placed only 20 seconds.
+
+---
 
 # 2) Date Formatting
  * Open date-format.html in Chrome
 
---------------
+---
 
 # 3) Apply Style
  * Open component.html in Chrome
