@@ -26,7 +26,7 @@
  > R: No, you can use this free service: https://ptsv2.com/.
 
  > 4. Q: How long is the cache saved?  
- > R: To test quickly, it was placed only 20 seconds.
+ > R: To test quickly, it was placed only **20 seconds**.
 
 ---
 
